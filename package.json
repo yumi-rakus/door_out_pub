@@ -1,0 +1,73 @@
+{
+  "name": "door-out",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "@react-google-maps/api": "^2.1.1",
+    "@reduxjs/toolkit": "^1.5.0",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/autosuggest-highlight": "^3.1.1",
+    "@types/googlemaps": "^3.43.3",
+    "@types/jest": "^26.0.20",
+    "@types/lodash.throttle": "^4.1.6",
+    "@types/node": "^12.20.5",
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-infinite-scroller": "^1.2.1",
+    "@types/react-redux": "^7.1.16",
+    "@types/react-router-dom": "^5.1.7",
+    "autosuggest-highlight": "^3.1.1",
+    "axios": "^0.21.1",
+    "camelcase-keys": "^6.2.2",
+    "compressorjs": "^1.0.7",
+    "google-maps": "^4.3.3",
+    "lodash.throttle": "^4.1.1",
+    "moment": "^2.29.1",
+    "notistack": "^1.0.5",
+    "polyline-encoded": "0.0.9",
+    "react": "^17.0.1",
+    "react-app-rewired": "^2.1.8",
+    "react-dom": "^17.0.1",
+    "react-infinite-scroller": "^1.2.4",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "snakecase-keys": "^3.2.1",
+    "typescript": "^4.2.3",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/qs": "^6.9.6",
+    "prettier": "^2.2.1",
+    "react-app-rewired": "^2.1.8"
+  }
+}

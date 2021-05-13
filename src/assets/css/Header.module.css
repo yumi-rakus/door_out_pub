@@ -1,0 +1,16 @@
+.cancel {
+    font-size: 10px;
+    color: #3f50b5;
+    width: 100%;
+    white-space: nowrap;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    transform: scale(0.8);
+}
+
+.lastBtn {
+    font-size: 5px;
+    padding: 0;
+}
